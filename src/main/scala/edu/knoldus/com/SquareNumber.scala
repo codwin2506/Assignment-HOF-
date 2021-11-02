@@ -1,6 +1,6 @@
 package edu.knoldus.com
 
-  class SquareNumber extends {
+  class SquareNumber {
     def squareList(xs: List[Int]): List[Int] =
       xs match {
         case Nil => Nil
